@@ -1,6 +1,6 @@
 # Robust Phishing Detection via Knowledge Distillation and Character-Level Transformer Fine-Tuning
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hassanabdullahkhan01-sys/phishing-detection-knowledge-distillation/blob/main/Hassan_Dissertation_Fixed_v2_Finalized.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hassanabdullahkhan01-sys/phishing-detection-knowledge-distillation/blob/main/phishing_detection_dissertation.ipynb)
 
 MSc Data Science dissertation, London South Bank University (2026).
 
